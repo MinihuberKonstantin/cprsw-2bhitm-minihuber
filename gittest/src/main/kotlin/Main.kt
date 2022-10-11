@@ -1,7 +1,7 @@
-fun main(args: Array<String>) {
+fun main() {
     println("Hello World!")
 
-    var test = 10; var i = 0
+    val test = 10; var i = 0
     while (test > i) {
         print("a")
         ++i
